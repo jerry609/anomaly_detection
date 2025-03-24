@@ -1,3 +1,4 @@
+```
 anomaly_detection_system/
 │
 ├── main.py                       # 主入口点脚本
@@ -65,3 +66,5 @@ anomaly_detection_system/
 └── output/                       # 输出目录
     ├── reports/                  # 生成的报告
     └── visualizations/           # 生成的可视化，这是我之前的目录， """
+
+```
